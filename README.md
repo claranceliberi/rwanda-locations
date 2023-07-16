@@ -1,6 +1,6 @@
 # Rwanda Political Locations
 
-This repository contains Rwanda 🇷🇼 political locations:
+This repository contains Rwanda 🇷🇼 political locations: the files available in SQL format, it can be used as part of database
 
 | Name               | Total Number |
 | ------------------ | ------------:|
